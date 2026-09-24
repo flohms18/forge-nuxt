@@ -1,6 +1,12 @@
+<script setup>
+
+import Hello from './src/components/Hello.vue';
+
+
+</script>
+
 <template>
   <div>
-    <NuxtRouteAnnouncer />
-    <NuxtWelcome />
+   <Hello></Hello>
   </div>
 </template>
