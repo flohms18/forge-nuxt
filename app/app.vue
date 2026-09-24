@@ -1,12 +1,12 @@
 <script setup>
 
-import Hello from './src/components/Hello.vue';
+import Base from './src/components/Base.vue';
 
 
 </script>
 
 <template>
   <div>
-   <Hello></Hello>
+   <Base></Base>
   </div>
 </template>
